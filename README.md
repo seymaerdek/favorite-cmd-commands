@@ -10,4 +10,4 @@ When i write this code on my Git Bash, i can see the status of the files. If it 
 
 ## 3)git log
 
-I use this code for seeing what happened previously on my file with the commit codes.Also I can see the deleted ones.
+I use this code for seeing what happened previously on my file with the commit codes.Also I can see the deleted one's.
